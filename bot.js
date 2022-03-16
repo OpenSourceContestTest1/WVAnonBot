@@ -930,6 +930,6 @@ function isNumeric(value) {
   return /^\d+$/.test(value);
 }
 
-console.log("HTTPSTEST")
+console.log("HTTPSTEST 2")
 
 client.login(auth.token);
